@@ -1,4 +1,1 @@
-# PopularMovie
-This application uses MovieDB API to fetch Popular movies from their database using Internet connection
-
-Before the application can be run, user needs to generate a private API Key from https://developers.themoviedb.org
+This android app gets and displays list of movies using 'The Movie Database' API.It allow users to discover the most popular movies playing. NOTE:Before you can use it, complete the TODO.
